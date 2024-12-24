@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Bcrenshaw24
+- 👀 I’m interested in Full-stack web development, machine learning, and game development
+- 🌱 I’m currently learning how to work with servers 
+- 💞️ I’m looking to collaborate on any projects really
+- 📫 How to reach me: https://www.linkedin.com/in/brandenkc/
+- 😄 Pronouns: He/Him
