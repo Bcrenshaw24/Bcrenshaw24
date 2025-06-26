@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Bcrenshaw24
-- 👀 I’m interested in Full-stack web development, machine learning, and game development
-- 🌱 I’m currently learning how to work with servers 
-- 💞️ I’m looking to collaborate on any projects really
-- 📫 How to reach me: https://www.linkedin.com/in/brandenkc/
-- 😄 Pronouns: He/Him
+- 👋 Hey I'm Branden, an undergraduate majoring in Computer Science at University of North Carolina University.
+- I'm currently reading and implementing "Attention is All You Need"
+- I have a deep love for machine learning and software engineering so my goal is to one day be an ML-focused SWE
