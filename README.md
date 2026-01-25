@@ -1,3 +1,2 @@
-- 👋 Hey I'm Branden, an undergraduate majoring in Computer Science at University of North Carolina University.
-- I'm currently reading and implementing "Attention is All You Need"
-- I have a deep love for machine learning and software engineering so my goal is to one day be an ML-focused SWE
+- 👋 Hey I'm Branden, an undergraduate majoring in Computer Science.
+- I have a deep love for math, so almost everything I do is math related
