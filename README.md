@@ -1,2 +1,3 @@
-- 👋 Hey I'm Branden, an undergraduate majoring in Computer Science.
-- I have a deep love for math, so almost everything I do is math related
+- 👋 Hey I'm Branden and I'm currently a junior majoring in Computer Science
+- My main focus is on Machine Learning & High Performance Computing.
+- Most of my current/future projects will be centered around that and I hope to have more opportunities to work in those spaces.
