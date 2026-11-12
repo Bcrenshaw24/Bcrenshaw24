@@ -40,11 +40,6 @@ CS @ UNC Charlotte (BS/MS) · ML Systems · GPU, backend & distributed systems
 - **[signs](https://github.com/Bcrenshaw24/signs)** – Edge-detection + CNN road sign classifier; **98%** smaller dataset footprint (PyTorch, OpenCV)
 - **[Chirp](https://github.com/Bcrenshaw24/Chirp)** – On-device phone sonar "digital cane" for blind users; native Android, haptic distance feedback
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Bcrenshaw24&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bcrenshaw24&layout=compact&theme=tokyonight)
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandenkc)
