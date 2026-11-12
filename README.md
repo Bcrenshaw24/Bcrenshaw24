@@ -33,10 +33,9 @@ CS @ UNC Charlotte (BS/MS) · ML Systems · GPU, backend & distributed systems
 
 ## Featured Projects
 
-- **[CUDA Library Suite](https://github.com/Bcrenshaw24/REPO-NAME)** – C++/CUDA mixed-precision GEMM kernels benchmarked against cuBLAS/cuDNN; shared-memory tiling, warp-level parallelism, Nsight profiling
-- **[Fraud Detection Pipeline](https://github.com/Bcrenshaw24/REPO-NAME)** – Real-time streaming with FastAPI, Kafka, PySpark & XGBoost; PostgreSQL feature store with **<5 ms** lookups, **40%** less insert overhead
-- **[$12 Server Challenge](https://github.com/Bcrenshaw24/REPO-NAME)** – Go net/http + SQLite on 1 vCPU / 2 GB; **2,500 VUs**, **p95 4.05 ms**, **0%** failed requests
-- **[LLM Serving Platform](https://github.com/Bcrenshaw24/REPO-NAME)** – Engine-agnostic open-weight LLM deployment & observability; Go agent on Kubernetes
+- **[CUDA Library Suite](https://github.com/Bcrenshaw24/Custom-CUDA-Suite)** – C++/CUDA mixed-precision GEMM kernels benchmarked against cuBLAS/cuDNN; shared-memory tiling, warp-level parallelism, Nsight profiling
+- **[$12 Server Challenge](https://github.com/Bcrenshaw24/)** – Go net/http + SQLite on 1 vCPU / 2 GB; **2,500 VUs**, **p95 4.05 ms**, **0%** failed requests
+- **[LLM Serving Platform](https://github.com/Bcrenshaw24/FeedAPI)** – Engine-agnostic open-weight LLM deployment & observability; Go agent on Kubernetes
 - **[signs](https://github.com/Bcrenshaw24/signs)** – Edge-detection + CNN road sign classifier; **98%** smaller dataset footprint (PyTorch, OpenCV)
 - **[Chirp](https://github.com/Bcrenshaw24/Chirp)** – On-device phone sonar "digital cane" for blind users; native Android, haptic distance feedback
 
