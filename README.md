@@ -1,6 +1,6 @@
 # Hi, I'm Branden 👋
 
-CS @ UNC Charlotte (BS/MS) · ML Systems · GPU, backend & distributed systems
+CS @ UNC Charlotte (BS) · ML Systems · GPU, backend & distributed systems
 
 - Undergrad ML research: Alzheimer's neuroimaging classification
 - Leading a CUDA library suite benchmarking custom kernels against cuBLAS/cuDNN
