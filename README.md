@@ -38,7 +38,7 @@ CS @ UNC Charlotte (BS) · ML Systems · GPU, backend & distributed systems
 - **[LLM Serving Platform](https://github.com/Bcrenshaw24/cloudLM)** – Engine-agnostic open-weight LLM deployment & observability; Go agent on Kubernetes
 - **[signs](https://github.com/Bcrenshaw24/signs)** – Edge-detection + CNN road sign classifier; **98%** smaller dataset footprint (PyTorch, OpenCV)
 - **[Chirp](https://github.com/Bcrenshaw24/Chirp)** – On-device phone sonar "digital cane" for blind users; native Android, haptic distance feedback
-- - **[Rook](https://github.com/Bcrenshaw24/rook)** – NBA Player Scoring pipeline that utilizes OpenCV, YOLO, and Reinforcement Learning to score players game by game. Takes inspiration from Chess.com ELO rating.
+- **[Rook](https://github.com/Bcrenshaw24/rook)** – NBA Player Scoring pipeline that utilizes OpenCV, YOLO, and Reinforcement Learning to score players game by game. Takes inspiration from Chess.com ELO rating.
 
 ## Contact
 
