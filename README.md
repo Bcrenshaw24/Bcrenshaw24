@@ -10,7 +10,7 @@ CS @ UNC Charlotte (BS) · ML Systems · GPU, backend & distributed systems
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=python,typesript,go,c,cpp)
+![](https://skillicons.dev/icons?i=python,ts,go,c,cpp)
 
 **Backend & Data**
 
