@@ -10,8 +10,7 @@ CS @ UNC Charlotte (BS) · ML Systems · GPU, backend & distributed systems
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=python,go,c,cpp)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://skillicons.dev/icons?i=python,typesript,go,c,cpp)
 
 **Backend & Data**
 
