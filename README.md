@@ -10,11 +10,15 @@ CS @ UNC Charlotte (BS) · ML Systems · GPU, backend & distributed systems
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=python,ts,go,c,cpp)
+![](https://skillicons.dev/icons?i=python,js,ts,go,c,cpp)
+
+**Frontend**
+
+![](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)
 
 **Backend & Data**
 
-![](https://skillicons.dev/icons?i=fastapi,postgres,sqlite,kafka)
+![](https://skillicons.dev/icons?i=nodejs,fastapi,postgres,sqlite,kafka)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
